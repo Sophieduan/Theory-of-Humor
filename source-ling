@@ -2,3 +2,9 @@
 
 1. Humor Recognition and Humor Anchor Extraction
 #https://code.google.com/archive/p/word2vec/
+1Pun of the Day: http://www.punoftheday.
+com/ This constructed dataset will be made public.
+2http://hosted.ap.org/dynamic/fronts/HOME?SITE=AP
+3https://answers.yahoo.com/
+4Manually extracted 654 proverbs from Proverb websites
+6We take the generic Word2Vec vectors without training new vectors for our specific domain. In addition, vectors associated with senses (Kumar Jauhar et al., 2015) might be alternative advantageous in this task.
